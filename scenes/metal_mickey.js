@@ -7,6 +7,7 @@
   "height": 480,
   "MaxDepth": 4,
   "SunLocation":[50,50,30],
+  "OnlyAmbient":1,
   "spheres": [
     {
       "type": "sphere",

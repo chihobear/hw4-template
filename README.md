@@ -12,4 +12,5 @@ Included files (**PLEASE ADD/UPDATE THIS LIST**):
 * outputs/ -- a folder with output ppm images for each scene
 
 
-**PLEASE PROVIDE ANY ATTRIBUTION HERE**
+PLEASE PROVIDE ANY ATTRIBUTION HERE**
+* example_output: The output of example1.js, generated from Dr. Efrat's MatLab code. Your output may look different than this, however relative position and shading should be similar.
